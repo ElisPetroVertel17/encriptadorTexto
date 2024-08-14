@@ -1,12 +1,13 @@
-#🔐 Solución de Cifrado de Texto
+🔐 
+Solución de Cifrado de Texto
 El Cifrador de Texto es una herramienta web fácil de usar y eficaz, que permite cifrar y descifrar mensajes de forma rápida y eficiente.
 
-#📝 Especificaciones
-#🔒 Cifrado de Texto: Utiliza reglas de sustitución para garantizar la seguridad de tu secuencia de texto. Ideal para mantener tus mensajes privados.
-#🔓 Descifrado de Texto: Facilita la extracción del texto original del estado cifrado.
-#📋 Copiar Texto: Copia texto cifrado o descifrado que puede compartirse o guardarse en cualquier lugar copiándolo en el portapapeles.
-#🚀 Procedimientos de Uso
-#✍️ Selecciona el Texto:
+📝 Especificaciones
+🔒 Cifrado de Texto: Utiliza reglas de sustitución para garantizar la seguridad de tu secuencia de texto. Ideal para mantener tus mensajes privados.
+🔓 Descifrado de Texto: Facilita la extracción del texto original del estado cifrado.
+📋 Copiar Texto: Copia texto cifrado o descifrado que puede compartirse o guardarse en cualquier lugar copiándolo en el portapapeles.
+🚀 Procedimientos de Uso
+✍️ Selecciona el Texto:
 
 Selecciona el texto que deseas cifrar en el área de texto proporcionada.
 Nota: Solo se permiten escribir letras que no estén en mayúsculas.
