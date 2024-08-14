@@ -45,9 +45,3 @@ JavaScript: Lógica de encriptación y desencriptación, manipulación del DOM, 
 🎨 Personalización
 
 Puedes personalizar los estilos en el archivo styles.css para que se adapten a tus preferencias o necesidades específicas.
-
-📝 Licencia
-Este proyecto está licenciado bajo la Licencia MIT. Siéntete libre de usar, modificar y compartir este código.
-
-🤝 Contribuciones
-¡Las contribuciones son bienvenidas! Si tienes alguna idea para mejorar la aplicación o encuentras algún error, no dudes en abrir un issue o enviar un pull request.
